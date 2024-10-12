@@ -1,0 +1,3 @@
+My name is akshay
+name = akshay
+Hello $name
